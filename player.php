@@ -10,7 +10,7 @@ $link = $_GET['id'];?>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="referrer" content="no-referrer" />
     <link rel="shortcut icon" href="./favicon.ico?v=wAOz4X2G7G">
-    <title>SubtitleOctopus - Advanced Substation Alpha Library for WebAssembly & asm.js</title>
+    <title>Jwplayer - Advanced Substation Alpha Library for WebAssembly & asm.js</title>
     <link integrity="" rel="stylesheet" href="./resources/css/bootstrap.min.css">
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
@@ -20,7 +20,7 @@ $link = $_GET['id'];?>
 
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-        <a class="navbar-brand" href="./index.html">SubtitlesOctopus</a>
+        <a class="navbar-brand" href="./index.php">home</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#nb" aria-controls="nb" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -28,10 +28,10 @@ $link = $_GET['id'];?>
         <div class="collapse navbar-collapse" id="nb">
             <ul class="navbar-nav mr-auto">
                 <li class="nav-item active">
-                    <a class="nav-link" href="./index.html">Home</a>
+                    <a class="nav-link" href="https://github.com/py7hon/gdvjs">Github</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="https://github.com/Dador/JavascriptSubtitlesOctopus">Github</a>
+                    <a class="nav-link" href="https://github.com/Dador/JavascriptSubtitlesOctopus">ASS Worker</a>
                 </li>
             </ul>
         </div>
