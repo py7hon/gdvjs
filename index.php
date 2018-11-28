@@ -41,10 +41,10 @@ $link = $_GET['id'];?>
                     var options = {
                         video: video,
                         subUrl: '<?php echo $subtitle?>',
-                        fonts: ['/gdplayer/resources/fonts/Arial.ttf', '/gdplayer/resources/fonts/TimesNewRoman.ttf'],
+                        fonts: ['/resources/fonts/Arial.ttf', '/resources/fonts/TimesNewRoman.ttf'],
                         //onReady: onReadyFunction,
                         debug: true,
-                        workerUrl: '/gdplayer/resources/js/subtitles-octopus-worker.js'
+                        workerUrl: '/resources/js/subtitles-octopus-worker.js'
                     };
                     window.octopusInstance = new SubtitlesOctopus(options); // You can experiment in console
                 };
