@@ -6,7 +6,7 @@ $link = $_GET['id'];?>
 		<meta charset="UTF-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<title>player</title>
-		<script src="./resources/js/subtitles-octopus.js"></script>>
+		<script src="./resources/js/subtitles-octopus.js"></script>
 		<style type="text/css">
 		html, body {
 			margin: 0;
